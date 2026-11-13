@@ -1,14 +1,14 @@
 {
-  "id": "./",
   "name": "Cartório na Mão — Autoatendimento",
   "short_name": "Cartório na Mão",
-  "description": "Protótipo demonstrativo PWA de autoatendimento cartorário, sem serviços conectados.",
+  "description": "Protótipo PWA de serviços cartorários e rurais.",
+  "id": "./",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f4f7f5",
-  "theme_color": "#103f42",
   "orientation": "portrait-primary",
+  "background_color": "#edf2ef",
+  "theme_color": "#103f42",
   "lang": "pt-BR",
   "icons": [
     {
